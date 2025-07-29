@@ -1,5 +1,10 @@
-# WordPress AI Development Environment
+<div align="center">
+   
+# AI for WordPress, Design & Development
+   
+https://github.com/user-attachments/assets/27460f31-feba-4c66-8b96-80f6fbba6863
 
+</div>
 This is a modern development environment for WordPress that includes AI capabilities, built with Next.js and Supabase for backend services.
 
 ## Prerequisites
@@ -15,8 +20,8 @@ Before you begin, make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone [your-repository-url]
-   cd wp-ai-dev
+   git clone https://github.com/prappo/wordpress-ai
+   cd wordpress-ai
    ```
 
 2. **Install dependencies**
